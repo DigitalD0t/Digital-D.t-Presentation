@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Brandon-Moreno
-- 👀 I’m interested in web sites development and design, i have some experience on U/X and U/I.
-- 🌱 I’m currently learning python and sql, for interaction with de server and databases.
-- 💞️ I’m looking to collaborate on any project that you have on mind, any one
-- 📫 How to reach me brandonmckonnen@gmail.com, brandonrasta83@gmail.com, https://wwww.facebook.com/brandon.rasta 
-or whatsApp: 5532888712 
+- 👋 Hi, I’m Freelancer
+- 👀 I’m interested in development web sites and design, i have experience on U/X and U/I.
+- 🌱 programmer language: javascript python php and libraries like react angular and other more.
+- 💞️ I’m looking to collaborate on any project with my personal brand "Digital D.t".
+- 📫 How to reach me brandonmckonnen@gmail.com, brandonrasta83@gmail.com, https://wwww.facebook.com/brandon.rasta, whatsApp: 5532888712 y telegram: @Pauliglota
 
 
 <!---
